@@ -67,3 +67,7 @@ This is demo repository for geekbrains webinar
 
 А вот и тефтелька!!! ![Teftelka](68827623.jpg)
 
+Может, это Тефтелька?
+
+![Possible Teftelka](possible_Teftelka.jpg)
+
