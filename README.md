@@ -8,3 +8,6 @@ This is demo repository for geekbrains webinar
 - внесение изменений в удалённый репозиторий (git push)
 
 - Вторая попытка.
+
+- добавил еще одну строку.
+
