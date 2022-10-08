@@ -18,20 +18,13 @@ This is demo repository for geekbrains webinar
 Добавил 10 строку
 
 
-
 Привет из Перми!
-
-
-
-
 
 
 *** Найти Тефтельку!!!!
 * Где же Тефтелька?
 
 ## End
-
-
 
 
 - всем привет из Карелии)
@@ -43,11 +36,8 @@ This is demo repository for geekbrains webinar
 
 
 
-
 ![Кот](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg)
 сложнаааа! Но, вроде разобрались
-
-
 
 
 
